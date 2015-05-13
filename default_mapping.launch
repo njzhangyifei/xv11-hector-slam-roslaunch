@@ -27,7 +27,7 @@
     
     <param name="advertise_map_service" value="true"/>
     <param name="scan_subscriber_queue_size" value="5"/>
-    <param name="scan_topic" value="sacn"/>
+    <param name="scan_topic" value="scan"/>
     <param name="tf_map_scanmatch_transform_frame_name" value="scanmatcher_frame" />
   </node>
 </launch>
