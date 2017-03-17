@@ -1,7 +1,7 @@
-##roslaunch for neato xv-11 lidar
+## roslaunch for neato xv-11 lidar
 
 See hector_neato.launch for detailed infomation.
 
-##demo
+## demo
 
 http://youtu.be/jSlkjY-78SQ
